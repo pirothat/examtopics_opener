@@ -13,7 +13,7 @@ examtopics scs-c02 question 72
 
 ## 実行
 
-python open-exams.py
+python open_exams.py
 
 以降は対話式で実行できます。
 
